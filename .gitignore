@@ -10,3 +10,6 @@
 
 # Don't ignore README if you want one
 !README.md
+
+# Don't ignore markdownlint configuration
+!.markdownlint.json
